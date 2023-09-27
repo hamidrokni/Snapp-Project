@@ -4,7 +4,7 @@ In this project we try to train ourselves and make a website just exactly same a
 > Actuly it is somehow like a homeworke and it was kind of fun
 
 - ### Team members. 
-> Arash Liravi. 
+> 1- Arash Liravi. 
 > Saeed Farzi. 
 > Abdollah Ghahremanitabar. 
 > Hamid rokni
